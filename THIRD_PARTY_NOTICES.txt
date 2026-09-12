@@ -1,0 +1,9 @@
+YouTube MP3 utilise les logiciels tiers suivants :
+
+- yt-dlp — The Unlicense : https://github.com/yt-dlp/yt-dlp
+- FFmpeg — licences LGPL/GPL selon la construction : https://ffmpeg.org/legal.html
+- Deno — licence MIT : https://github.com/denoland/deno
+- PyInstaller — GPL avec exception pour les applications produites : https://pyinstaller.org/
+- winotify — licence MIT : https://github.com/versa-syahptr/winotify
+
+Les marques et services cités appartiennent à leurs propriétaires respectifs.

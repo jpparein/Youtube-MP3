@@ -1,0 +1,5 @@
+@echo off
+title Installation de YouTube MP3
+cd /d "%~dp0"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Installer.ps1"
+if errorlevel 1 pause
